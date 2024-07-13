@@ -1,0 +1,13 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 20px;
+}
+
+#box {
+    width: 100px;
+    height: 100px;
+    background-color: lightblue;
+    margin: 20px auto;
+    display: none; /* Hide the box initially */
+}
